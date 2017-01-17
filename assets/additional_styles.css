@@ -1,6 +1,6 @@
 body {
   font-family: "Montserrat";
-  font-size: 16px;
+  font-size: 14px;
 }
 
 h1, h2, h3, h4 {
@@ -10,6 +10,7 @@ h1, h2, h3, h4 {
 .navbar-brand {
   font-family: "Passion One";
   font-size: xx-large;
+  color: white !important;
 }
 
 /* My standard vertical spacing classes */
@@ -88,4 +89,40 @@ h1, h2, h3, h4 {
 
 .margin-below-bottom-xl {
   margin-bottom: 200px;
+}
+.nav-addon{
+  color: #FFFFFF;
+  background-color: #F63440;
+}
+.main-hero {
+  background: url("images/main-hero.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 500px;
+  padding-top: 150px;
+}
+.img-30{
+  width: 30%;
+}
+.media-image{
+  width:50px;
+}
+.img-50{
+  width: 50%;
+}
+.lightblue-bg{
+  background-color: #EEEEEE;
+}
+.download-hero {
+  background: url("images/download-hero.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+.footer{
+  background-color: #3232AA;
+  color: #FFFFFF;
+  line-height: 1.9;
+}
+.footer-header{
+  font-size: 16px;
 }
