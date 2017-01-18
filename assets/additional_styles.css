@@ -12,7 +12,13 @@ h1, h2, h3, h4 {
   font-size: xx-large;
   color: white !important;
 }
+.navbar-default {
+  color: white !important;
+}
 
+ul.nav li a, ul.nav li a:visited {
+    color: white !important;
+}
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
@@ -91,7 +97,6 @@ h1, h2, h3, h4 {
   margin-bottom: 200px;
 }
 .nav-addon{
-  color: #FFFFFF;
   background-color: #F63440;
 }
 .main-hero {
@@ -108,7 +113,7 @@ h1, h2, h3, h4 {
   width:50px;
 }
 .img-50{
-  width: 50%;
+  width: 43%;
 }
 .lightblue-bg{
   background-color: #EEEEEE;
